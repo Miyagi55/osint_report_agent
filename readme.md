@@ -11,7 +11,9 @@ This project is an assistant agent designed to generate Open-Source Intelligence
 - **PDF Report Generation**: Produces professional PDF reports using ReportLab, incorporating summaries, extracted data, visualizations, and recommendations.
 - **Security Compliance**: Processes data locally with a lightweight model to minimize external dependencies and ensure data privacy.
 ---
-![how it works](https://github.com/Miyagi55/osint_report_agent/blob/main/osint_report_assistant3.png)
+<div align="center">
+   <img src="https://github.com/Miyagi55/osint_report_agent/blob/main/osint_report_assistant2.png" alt="Usage Chart">
+</div>
 
 ## How It Works
 1. **Input Processing**:
